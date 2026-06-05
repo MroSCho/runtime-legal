@@ -9,5 +9,3 @@ app for offline music playback.
 These pages are required by the App Store and are linked from the app's
 App Store Connect listing. They contain no analytics, no tracking, no embeds —
 just static HTML.
-
-App source is in a separate private repository.
